@@ -117,11 +117,3 @@ Explaining the working of project
 Embed video of project demo
 
 
-## Libraries used
-Library Name - Version
-
-## How to configure
-Instructions for setting up project
-
-## How to Run
-Instructions for running
