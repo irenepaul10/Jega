@@ -44,6 +44,8 @@ Overall, by leveraging MobileNet and TensorFlow Lite for logo recognition and wa
 
 
 Embed video of project demo
+https://drive.google.com/file/d/1cuOxG2MILR-aKJQqSV3TPbB9hrHeuWLV/view?usp=drivesdk
+
 
 
 ## Libraries used
